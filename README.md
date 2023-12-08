@@ -1,0 +1,1 @@
+This repository contains the backend code for an AWS-based project, particularly focusing on the Lambda function written in Python. The Lambda function plays a crucial role in the overall functionality of the system.
